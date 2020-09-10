@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.my-h1{background-color:red;}
+.my-p{background-color:blue;}
+.my-ul{background-color:green;}
